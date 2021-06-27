@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vidif\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vidif\\.nuget\\packages"
+    ]
+  }
+}
